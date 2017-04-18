@@ -2,7 +2,7 @@
 
 #### _{Practice Webpage for HTML, inline elements and block elements, {04.18.2017}_
 
-#### By _**{James Lannon Michael Koceja}**_
+#### By _**{James Lannon Michael Koceja and Leah Sherrell helped on CSS}**_
 
 ## Description
 
