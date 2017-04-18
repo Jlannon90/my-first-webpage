@@ -1,0 +1,16 @@
+ul {
+  list-style-type: none;
+  text-align: center;
+  line-height: 150px;
+  font-size: 70px;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+}
